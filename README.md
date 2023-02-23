@@ -86,3 +86,5 @@ Use these channels to be part of the community, ask for help while using Medusa,
 - [Medusa Blog](https://medusajs.com/blog/): find diverse tutorials and company news.
 - [Twitter](https://twitter.com/medusajs)
 - [LinkedIn](https://www.linkedin.com/company/medusajs)
+
+Last updated at 23 Feb. 2023
